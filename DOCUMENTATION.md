@@ -99,7 +99,7 @@ All cells in a Code Workbook are datasets. Datasets are either imported from fil
 The execution engine reads the function signature of all transform scripts, and builds a dependency graph. It then executes the transforms in topological order. The execution engine also saves the output of each transform in `output` folder. This allows the engine to skip the execution of a transform if it is done before. 
 
 ### API Docs
-Please refer to docstrings in `utils/execution_engine.py` for more details.
+Please refer to docstrings in [`utils/execution_engine.py`](utils/execution_engine.py) for more details.
 
 ## Tips
  - You can set `PYSPARK_PYTHON` and `PYSPARK_DRIVER_PYTHON` environment variables to the path of your python executable, when an error message says the driver and executor are using different python versions.
