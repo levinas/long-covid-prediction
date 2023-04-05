@@ -1,0 +1,2 @@
+def feature_group_model100(feature_model100_v2):
+    return aggregate_feature_importance_to_categories(feature_model100_v2)
