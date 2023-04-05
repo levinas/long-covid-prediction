@@ -1,0 +1,8 @@
+pandas<2
+pyspark
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+shap
+networkx

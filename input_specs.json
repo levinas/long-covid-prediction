@@ -1,0 +1,26 @@
+{
+    "concept": "synthetic_data/others/concept.csv",
+    "concept_set_members": "synthetic_data/others/concept_set_members.csv",
+
+    "condition_occurrence": "synthetic_data/training/condition_occurrence.csv",
+    "drug_exposure": "synthetic_data/training/drug_exposure.csv",
+    "observation": "synthetic_data/training/observation.csv",
+    "procedure_occurrence": "synthetic_data/training/procedure_occurrence.csv",
+    "visit_occurrence": "synthetic_data/training/visit_occurrence.csv",
+    "silver": "synthetic_data/training/long_covid_silver_standard.csv",
+    "measurement": "synthetic_data/training/measurement.csv",
+    "person_table": "synthetic_data/training/person.csv",
+    "microvisits_to_macrovisits": "synthetic_data/training/microvisits_to_macrovisits.csv",
+    "observation_period": "synthetic_data/training/observation_period.csv",
+
+    "condition_occurrence_test": "synthetic_data/testing/condition_occurrence.csv",
+    "drug_exposure_test": "synthetic_data/testing/drug_exposure.csv",
+    "observation_test": "synthetic_data/testing/observation.csv",
+    "procedure_occurrence_test": "synthetic_data/testing/procedure_occurrence.csv",
+    "visit_occurrence_test": "synthetic_data/testing/visit_occurrence.csv",
+    "silver_test": "synthetic_data/testing/long_covid_silver_standard.csv",
+    "measurement_test": "synthetic_data/testing/measurement.csv",
+    "person_test": "synthetic_data/testing/person.csv",
+    "microvisits_to_macrovisits_test": "synthetic_data/testing/microvisits_to_macrovisits.csv",
+    "observation_period_test": "synthetic_data/testing/observation_period.csv"
+}
