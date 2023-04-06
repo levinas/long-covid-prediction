@@ -48,9 +48,9 @@ unzip synthetic_data.zip
 ```
 ./run_all.sh
 ```
-This will run the entire workflow on the synthetic data. The final output will be saved as `Convalesco_predictions.csv` in the root directory of this repo; the outputs of all intermediate datasets will be saved in the `output/` folder.
+This will run the entire workflow on the synthetic data. The final output will be saved as `Convalesco_predictions.csv` in the root directory of this repo; all the intermediate output datasets will be saved in the `output/` folder.
 
-The test run on the synthetic data could take 1-2 hours on a typical linux machine with 64 GB memory. PySpark may generate `RowBasedKeyValueBatch` warnings that could be safely avoided.
+The test run on the synthetic data could take 1-2 hours on a typical linux machine with 64 GB memory. PySpark may generate `RowBasedKeyValueBatch` warnings that could be safely ignored.
 
 Th final output is a patient-level table with prediction results for the testing data with 8 columns: 
  ```python
