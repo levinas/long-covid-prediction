@@ -25,7 +25,7 @@ conda activate l3c
 pip install -r requirements.txt
 ```
 
-4. Ensure Java, a [PySpark dependency](https://spark.apache.org/docs/latest/api/python/getting_started/install.html), is installed and the JAVA_HOME environment variable is set. 
+4. Ensure Java, a [PySpark dependency](https://spark.apache.org/docs/latest/api/python/getting_started/install.html), is installed and the `JAVA_HOME` environment variable is set. 
 
 For example, on an Ubuntu Linux machine, you can run the following command (or use other package managers such as homebrew to avoid sudo):
 ```
