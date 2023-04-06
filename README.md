@@ -69,7 +69,7 @@ In this example, since we are using synthetic data, the predictions will not be 
 
 ## Models and Features
 
-We have created 4 models with different emphases, and our submission is an ensemble of the first three.
+We have created 4 models with different emphases, and our submission is an ensemble of the first three. Our submission uses no more than 100 temporal features (including conditions, events, and labs), and we demonstrate that a simple model with a subset of only 36 features incurs a small accuracy loss of 0.1–0.2% compared to our final submission. 
 
 ![Table 1](figs/table1-model-description.png)
 
