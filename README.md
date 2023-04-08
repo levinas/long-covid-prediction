@@ -1,6 +1,6 @@
 # NIH Long Covid Challenge Solution
 
-This repository contains a winning submission for the NIH Long Covid Computational Challenge ([L3C](https://www.challenge.gov/?challenge=l3c)) developed by [Team Convalesco](https://www.linkedin.com/pulse/announcing-nih-long-covid-computational/). The objective of the challenge was to develop machine learning models to predict which patients are susceptible to developing PASC/Long COVID using structured medical records up to 28 days from COVID onset. 
+This repository contains a winning submission for the [NIH Long Covid Computational Challenge (L3C)](https://www.challenge.gov/?challenge=l3c) developed by [Team Convalesco](https://www.linkedin.com/pulse/announcing-nih-long-covid-computational/). The objective of the challenge was to develop machine learning models to predict which patients are susceptible to developing PASC/Long COVID using structured medical records up to 28 days from COVID onset. 
 
 ## Overview
 
